@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V79k8AH1YHA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owner\\Desktop\\פרקטיקוד\\FilesBundlerSample\\FilesBundlerSample\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

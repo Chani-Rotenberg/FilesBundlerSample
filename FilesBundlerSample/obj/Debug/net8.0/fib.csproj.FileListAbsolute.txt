@@ -1,0 +1,5 @@
+C:\Users\owner\Desktop\פרקטיקוד\FilesBundlerSample\FilesBundlerSample\obj\Debug\net8.0\fib.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\פרקטיקוד\FilesBundlerSample\FilesBundlerSample\obj\Debug\net8.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\פרקטיקוד\FilesBundlerSample\FilesBundlerSample\obj\Debug\net8.0\fib.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\פרקטיקוד\FilesBundlerSample\FilesBundlerSample\obj\Debug\net8.0\fib.AssemblyInfo.cs
+C:\Users\owner\Desktop\פרקטיקוד\FilesBundlerSample\FilesBundlerSample\obj\Debug\net8.0\fib.csproj.CoreCompileInputs.cache
